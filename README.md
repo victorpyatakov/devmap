@@ -58,7 +58,7 @@
 
 - [ ] Программирование:
     - [x] [Структура и интерпретация компьютерных программ (Харольд Абельсон, Джеральд Джей Сассман)](http://www.ozon.ru/context/detail/id/5322055/)
-    - [ ] [Алгоритмы. Вводный курс (Томас Х. Кормен)](http://www.ozon.ru/context/detail/id/24903185/)
+    - [x] [Алгоритмы. Вводный курс (Томас Х. Кормен)](http://www.ozon.ru/context/detail/id/24903185/)
     - [ ] [Совершенный код (Стив Макконнелл)](http://www.ozon.ru/context/detail/id/5508646/)
     - [ ] [Чистый код: создание, анализ и рефакторинг (Роберт Мартин)](http://www.ozon.ru/context/detail/id/21916535/)
     - [ ] [Рефакторинг. Улучшение существующего кода (Мартин Фаулер)](http://www.ozon.ru/context/detail/id/1308678/)
@@ -300,7 +300,7 @@
 
 - [ ] Книги:
     - [ ] [Грокаем алгоритмы. Иллюстрированное пособие для программистов и любопытствующих (Адитья Бхаргава)](https://www.ozon.ru/context/detail/id/139296295/)
-    - [ ] [Алгоритмы. Вводный курс (Томас Х. Кормен)](http://www.ozon.ru/context/detail/id/24903185/)
+    - [x] [Алгоритмы. Вводный курс (Томас Х. Кормен)](http://www.ozon.ru/context/detail/id/24903185/)
 
 - [ ] Ресурсы:
     - [ ] [HackerRank](https://www.hackerrank.com/)
@@ -318,7 +318,7 @@
 
 - [ ] Примеры серверных языков:
     - [ ] PHP
-    - [ ] Python
+    - [x] Python
     - [ ] Ruby
 
 - [ ] Статьи:
@@ -426,7 +426,7 @@
     - [ ] [Yii](http://www.yiiframework.com/)
 
 - [ ] Python фреймворки:
-    - [ ] [Django](https://www.djangoproject.com/)
+    - [x] [Django](https://www.djangoproject.com/)
     - [ ] [Flask](http://flask.pocoo.org/)
 
 - [ ] Ruby фреймворки:
@@ -441,7 +441,7 @@
 ### Пакетный менеджер [&uarr;](#Содержание)
 - [ ] Список пакетных менеджеров:
     - [ ] Для PHP - [composer](https://getcomposer.org/)
-    - [ ] Для Python - [pip](https://pypi.python.org/pypi/pip)
+    - [x] Для Python - [pip](https://pypi.python.org/pypi/pip)
     - [ ] Для Ruby - [bundler](http://bundler.io/)
     - [ ] Для Javascript - [npm](https://www.npmjs.com/), [yarn](https://yarnpkg.com/)
 
