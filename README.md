@@ -204,6 +204,9 @@
 - [ ] Книга:
     - [ ] [Pro Git (Scott Chacon, Ben Straub)](https://git-scm.com/book/ru/v2)
 
+- [ ] Статьи:
+    - [ ] [Как генерировать осмысленные коммиты. Применяем стандарт Conventional Commits](https://habr.com/ru/company/yandex/blog/431432/)
+
 ---
 
 ### Протокол HTTP [&uarr;](#Содержание)
@@ -322,6 +325,7 @@
     - [ ] PHP
     - [x] Python
     - [ ] Ruby
+    - [ ] Node.js
 
 - [ ] Статьи:
     - [ ] Типы данных
@@ -433,6 +437,11 @@
 
 - [ ] Ruby фреймворки:
     - [ ] [Ruby on Rails](http://rubyonrails.org/)
+
+- [ ] Node.js фреймворки:
+    - [ ] [Express](https://expressjs.com/)
+    - [ ] [Koa](https://koajs.com/)
+    - [ ] [Next](https://nextjs.org/)
 
 - [ ] Статьи:
     - [ ] [Фреймворк (wikipedia)](https://ru.wikipedia.org/wiki/%D0%A4%D1%80%D0%B5%D0%B9%D0%BC%D0%B2%D0%BE%D1%80%D0%BA)
@@ -567,7 +576,8 @@
 - [ ] Сборщики проектов:
     - [ ] [Gulp](http://gulpjs.com/)
     - [ ] [Grunt](http://gruntjs.com/)
-    - [ ] [Webpack](https://webpack.github.io/)
+    - [ ] [Webpack](https://webpack.js.org/)
+    - [ ] [Vite](https://vitejs.dev/)
 
 - [ ] Статьи:
     - [ ] [Приятная сборка frontend проекта (habrahabr)](https://habrahabr.ru/post/250569/)
@@ -604,8 +614,8 @@
 
 Список фреймворков:
 - [ ] [Angular](https://angular.io/)
-- [ ] [Vue - создание интерактивных интерфейсов](http://vuejs.org/)
-- [ ] [Backbone](http://backbonejs.org/)
+- [ ] [Vue](http://vuejs.org/)
+- [ ] [Svelte](https://ru.svelte.dev/)
 - [ ] [Ember](http://emberjs.com/)
 
 ---
